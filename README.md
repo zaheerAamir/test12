@@ -1,9 +1,25 @@
 # test12
 
-#WAS ABLE TO FETCH THE DATA FROM THE GIVEN WEBSITE:
+#Made the app: 
 
-<img src="./images/Screenshot (31)cropped.png">
+<img src='./images/Screenshot (35).png' height=400px width=800px/>
 
-#BUT I WAS NOT ABLE TO UPLOAD THE DATA ON TO THE DATABASE AND GET DATA FORM THE DATABASE DUE TO THIS ERROR: 
+#MADE IT RESPONSIVE FOR ALL VIEWS: 
 
-<img src="./images/Screenshot (32) crpped.png">
+#TABLET: 
+
+<img src='./images/Screenshot (36).png' height=400px width=800px/>
+
+#MOBILE: 
+
+<img src='./images/Screenshot (37).png' height=400px width=800px/>
+
+#ALSO ADDED ANIMATION ON HOVER: 
+
+#MOBILE: 
+
+<img src='./images/Screenshot (38).png' height=400px width=800px/>
+
+#DESKTOP:
+
+<img src='./images/Screenshot (39).png' height=400px width=800px/>
